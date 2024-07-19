@@ -45,17 +45,17 @@
     "@juzi/wechaty": "^1.0.99",
     "@juzi/wechaty-puppet": "^1.0.90",
     "@juzi/wechaty-puppet-service": "^1.0.97",
-    "wechaty-web-panel": "^1.6.59"
+    "@ggcorp/wechaty-web-panel": "^1.0.0"
   },
   "devDependencies": {
     "pm2": "^4.2.3"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leochen-g/wechat-assistant-pro.git"
+    "url": "git+https://github.com/RickCopDev/wechat-assistant-pro.git"
   },
   "bugs": {
-    "url": "https://github.com/leochen-g/wechat-assistant-pro/issues"
+    "url": "https://github.com/RickCopDev/wechat-assistant-pro/issues"
   },
-  "homepage": "https://github.com/leochen-g/wechat-assistant-pro#readme"
+  "homepage": "https://github.com/RickCopDev/wechat-assistant-pro#readme"
 }
