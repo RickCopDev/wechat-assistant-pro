@@ -45,7 +45,7 @@
     "@juzi/wechaty": "^1.0.99",
     "@juzi/wechaty-puppet": "^1.0.90",
     "@juzi/wechaty-puppet-service": "^1.0.97",
-    "@ggcorp/wechaty-web-panel": "^1.0.0"
+    "@ggcorp/wechaty-web-panel": "^1.0.1"
   },
   "devDependencies": {
     "pm2": "^4.2.3"
