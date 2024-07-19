@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "wechaty-pro",
+      "name": "wechaty-local",
       "cwd": "./",
       "script": "./index.js",
       "cron_restart": "0 0 * * *",
