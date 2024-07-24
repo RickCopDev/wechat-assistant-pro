@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "pm2": "pm2 start pm2.json",
-    "stop": "pm2 stop wechaty-pro",
-    "restart": "pm2 restart wechat-pro",
+    "stop": "pm2 stop wechaty-local",
+    "restart": "pm2 restart wechat-local",
     "start": "USE_LOCAL_CONFIG=Y node index.js",
     "office": "node src/office.js",
     "engine": "node src/engine.js",
