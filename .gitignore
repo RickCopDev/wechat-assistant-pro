@@ -29,3 +29,4 @@ wechat.config.json
 room.db
 dist-electron
 localConfigs.json
+_*.json

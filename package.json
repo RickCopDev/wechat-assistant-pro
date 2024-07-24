@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "pm2": "pm2 start pm2.json",
-    "stop": "pm2 stop wechaty-local",
-    "restart": "pm2 restart wechaty-local",
-    "start": "node index.js",
+    "stop": "pm2 stop wechaty-pro",
+    "restart": "pm2 restart wechat-pro",
+    "start": "USE_LOCAL_CONFIG=Y node index.js",
     "office": "node src/office.js",
     "engine": "node src/engine.js",
     "test": "node src/index.template.js"
@@ -45,7 +45,7 @@
     "@juzi/wechaty": "^1.0.99",
     "@juzi/wechaty-puppet": "^1.0.90",
     "@juzi/wechaty-puppet-service": "^1.0.97",
-    "@ggcorp/wechaty-web-panel": "^1.0.1"
+    "@ggcorp/wechaty-web-panel": "^1.0.2"
   },
   "devDependencies": {
     "pm2": "^4.2.3"
